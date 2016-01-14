@@ -1,0 +1,20 @@
+{
+  "name": "pathf",
+  "version": "0.1.0",
+  "description": "Print formatted PATH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeleyng/pathf.git"
+  },
+  "author": "Rafael Eyng <rafaeleyng@gmail.com> (https://github.com/rafaeleyng)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaeleyng/pathf/issues"
+  },
+  "bin": "bin/pathf.js",
+  "homepage": "https://github.com/rafaeleyng/pathf#readme"
+}
